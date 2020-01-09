@@ -1,0 +1,12 @@
+Random Potions adds a bunch of potions, buffs, and debuffs (as well as a few potion related items)
+Current potions:
+- Fleetfeet Potion: Makes you run like you are wearing hermes boots
+- Melee Speed Potion: Increases melee attack speed by 20%
+- Extra Life Potion: Revives you if you die
+- Vials: The magic equivalent of flasks
+- Challenger Potion: makes bosses drop their loot bag even in normal mode, but Divides max health by 5 (also enables your 6th equip slot and makes enemies drop more coins)
+
+Items:
+- Life Flower: Automatically uses a health potion when needed
+- Mana Life Flower: Combination of mana and life flower, with both effects
+- The Cooler Demon Heart: A demon heart that can be consumed in normal mode, to be used with the challenger potion
